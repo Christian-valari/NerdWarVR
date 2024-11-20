@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dc9f10c87d34b449ace3024dc6712a8, type: 3}
+  m_Name: RoundWordDataListSO
+  m_EditorClassIdentifier: 
+  _roundWordList:
+  - {fileID: 11400000, guid: e0ead1580654dd147b0ca889a49e6385, type: 2}
+  - {fileID: 11400000, guid: cb2018442eb182045bd56b07d21bd93f, type: 2}
+  - {fileID: 11400000, guid: df75e4c1ddd3fbc40ab8515b4995a489, type: 2}
+  - {fileID: 11400000, guid: 5057d2325390ee74f93fe4d020763b3e, type: 2}

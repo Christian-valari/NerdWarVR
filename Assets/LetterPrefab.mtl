@@ -1,0 +1,8 @@
+newmtl Blue_Standard
+Kd 0.1254902 0.5882353 0.9529411
+d 1
+
+newmtl Material.001
+Kd 0.9064026 0.8991206 0.8772743
+d 1
+

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fcc60b983cc4d2e95aaa082382ca32c, type: 3}
+  m_Name: RoundWordDataSO 1
+  m_EditorClassIdentifier: 
+  Data:
+    RoundTimeLimit: 10
+    EndDamage: 1
+    WordList:
+    - STONE
+    - CLOUD
+    - WAVE
+    - SUN
+    - FLOWER
+    - SAND
+    - RAIN
+    - LIGHT
+    - RIVER
+    - PATH
+    - BIRD
+    - SNOW
+    - SHELL
+    - SEED
+    - NEST
+  _wordListSerialize: 'Stone
+
+    Cloud
+
+    Wave
+
+    Sun
+
+    Flower
+
+    Sand
+
+    Rain
+
+    Light
+
+    River
+
+    Path
+
+    Bird
+
+    Snow
+
+    Shell
+
+    Seed
+
+    Nest'
