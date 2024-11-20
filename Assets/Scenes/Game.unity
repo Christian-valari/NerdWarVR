@@ -15567,7 +15567,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7fbad777c88a474495fe78330777d88b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  letterNetworkControllerPrefab: {fileID: 371510950564021674, guid: 426ae6324ee1723469e3e8dfd65e89f6,
+  letterNetworkControllerPrefab: {fileID: 371510950564021674, guid: 8a8f1404a285bd040b8ece1a05a3450a,
     type: 3}
   _currentRoundWordData:
     RoundTimeLimit: 60

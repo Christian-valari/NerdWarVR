@@ -957,11 +957,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 8caf89d0-2257-4070-90ec-c11727651683
+  cloudProjectId: 1e038581-032e-4ade-b06d-e805ac96544f
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: NerdWar
-  organizationId: janahan_unity
+  projectName: NerdWar-VR
+  organizationId: valari-chris
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
